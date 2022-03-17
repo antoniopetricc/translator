@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:iginfo/bloc/translator/translator_bloc.dart';
-import 'package:iginfo/cubits/languages/languages_cubit.dart';
-import 'package:iginfo/models/languages.dart';
-import 'package:iginfo/styles.dart';
-import 'package:iginfo/widgets/custom_button.dart';
-import 'package:iginfo/widgets/custom_dropdown.dart';
-import 'package:iginfo/widgets/ease_in.dart';
+import 'package:translator/bloc/translator/translator_bloc.dart';
+import 'package:translator/cubits/languages/languages_cubit.dart';
+import 'package:translator/models/languages.dart';
+import 'package:translator/styles.dart';
+import 'package:translator/widgets/custom_button.dart';
+import 'package:translator/widgets/custom_dropdown.dart';
+import 'package:translator/widgets/ease_in.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class HomeView extends StatefulWidget {

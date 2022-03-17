@@ -1,8 +1,6 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
-import 'package:iginfo/styles.dart';
-import 'package:iginfo/widgets/ease_in.dart';
+import 'package:translator/styles.dart';
+import 'package:translator/widgets/ease_in.dart';
 
 class CustomButton extends StatelessWidget {
   final String text;

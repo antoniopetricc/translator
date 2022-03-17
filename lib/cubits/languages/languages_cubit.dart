@@ -1,8 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:equatable/equatable.dart';
-import 'package:iginfo/models/languages.dart';
-
-part 'languages_state.dart';
+import 'package:translator/models/languages.dart';
 
 class LanguagesCubit extends Cubit<Languages> {
   LanguagesCubit() : super(Languages(from: 'it', to: 'en'));

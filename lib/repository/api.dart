@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:iginfo/models/translate.dart';
+import 'package:translator/models/translate.dart';
 
 class Api {
   static const String _baseUrl = "https://libretranslate.pussthecat.org";

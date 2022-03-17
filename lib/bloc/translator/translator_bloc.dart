@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:iginfo/repository/api.dart';
+import 'package:translator/repository/api.dart';
 
 part 'translator_event.dart';
 part 'translator_state.dart';

@@ -1,5 +1,5 @@
+import 'package:translator/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:iginfo/styles.dart';
 
 class CustomDropDown extends StatelessWidget {
   const CustomDropDown({

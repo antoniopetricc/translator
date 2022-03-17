@@ -1,5 +1,5 @@
-name: iginfo
-description: A new Flutter project.
+name: translator
+description: Translator app.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -35,7 +35,6 @@ dependencies:
   flutter_bloc: ^8.0.1
   google_fonts: ^2.3.1
   http: ^0.13.4
-  provider: ^6.0.2
   url_launcher: ^6.0.20
 
 dev_dependencies:
