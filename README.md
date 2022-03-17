@@ -1,16 +1,7 @@
-# iginfo
+# Translator
 
-A new Flutter project.
+Translator app with Flutter & https://libretranslate.com/
 
-## Getting Started
+![Logo](https://user-images.githubusercontent.com/52720679/158900857-6159b530-adfa-4d2e-81ae-9cfa481ba4e8.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://translate.antoniopetricciuoli.com
