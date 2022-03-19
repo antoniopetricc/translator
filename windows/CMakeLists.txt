@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(iginfo LANGUAGES CXX)
+project(translate LANGUAGES CXX)
 
-set(BINARY_NAME "iginfo")
+set(BINARY_NAME "translate")
 
 cmake_policy(SET CMP0063 NEW)
 

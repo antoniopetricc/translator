@@ -1,4 +1,4 @@
-package com.example.iginfo
+package com.example.translate
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(runner LANGUAGES CXX)
 
-set(BINARY_NAME "iginfo")
-set(APPLICATION_ID "com.example.iginfo")
+set(BINARY_NAME "translate")
+set(APPLICATION_ID "com.example.translate")
 
 cmake_policy(SET CMP0063 NEW)
 
